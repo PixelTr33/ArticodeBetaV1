@@ -1,0 +1,5 @@
+{
+  "name": "Articode AI IDE",
+  "description": "An AI-powered development environment that generates and edits entire applications from a single prompt. Features a sleek IDE interface, collaborative tools, and multi-AI model support, all powered by Gemini.",
+  "requestFramePermissions": []
+}
